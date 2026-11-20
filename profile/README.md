@@ -5,9 +5,8 @@
 ### 车型与项目入口
 
 - ID.3 / ID.4（2024 年前）：请从 [ICAS3 AGL root](https://github.com/vw-id-headunit-lab/icas3-agl-root) 入门。
-- **ID.3 MKII · ICAS3GP · 软件版本 8704**：[a3-root](https://github.com/vw-id-headunit-lab/a3-root)，通过车机 SoftAP A3 通道拉起 Linux SSH，并使用源端口 7878 进行 root 公钥登录。
-
-`a3-root` 当前项目平台为上述 ID.3 MKII 配置，其他车型和软件版本的适用性需单独验证。
+- ID.3 MKII · ICAS3GP · 软件版本 8704：[a3-root](https://github.com/vw-id-headunit-lab/a3-root)，通过车机 SoftAP A3 通道拉起 Linux SSH，并使用源端口 7878 进行 root 公钥登录。
+- ID.7 软件版本7047：参考 [a3-root](https://github.com/vw-id-headunit-lab/a3-root)，通过车机 SoftAP A3 通道拉起 Linux SSH，车机AGL自带adb，可直接安装软件
 
 ### 联网问题：
 
