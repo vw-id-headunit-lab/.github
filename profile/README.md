@@ -22,3 +22,7 @@
 
 - 安卓虚拟机：[点击这里](https://github.com/vw-id-headunit-lab/android-firmware-qemu-bench)
 - HMI虚拟机：[点击这里](https://github.com/vw-id-headunit-lab/icas3-hmi-bench)
+
+---
+
+***转载与衍生作品，请注明来源***
