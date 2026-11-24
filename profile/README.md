@@ -16,6 +16,7 @@
 ### 已有特性：
 
 - 灯光精灵carplay联动：[点击这里](https://github.com/vw-id-headunit-lab/smartlight-agl)
+- 自动切换日间夜间模式：[点击这里](https://github.com/vw-id-headunit-lab/icas3-agl-auto_day_night)
 - 持续更新，敬请期待。
 
 ### 开发虚拟机
