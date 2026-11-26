@@ -27,3 +27,35 @@
 ---
 
 ***转载与衍生作品，请注明来源***
+
+---
+
+## VW-ID Head Unit Research Club 👋
+
+Welcome to the VW-ID Head Unit Research Club! This is a community of enthusiasts dedicated to researching Volkswagen ID. series infotainment systems.
+
+### Supported Models & Projects
+
+- ID.3 / ID.4 (pre-2024): Get started with [ICAS3 AGL root](https://github.com/vw-id-headunit-lab/icas3-agl-root).
+- ID.3 MKII · ICAS3GP · Software Version 8704: [a3-root](https://github.com/vw-id-headunit-lab/a3-root). Enables Linux SSH via the head unit's SoftAP A3 channel, with root public-key authentication using source port 7878. Currently, only Linux IVI (AGL) root access has been achieved. Android root, ADB, and QNX support are not yet available.
+- ID.7 · Software Version 7047: Refer to [a3-root](https://github.com/vw-id-headunit-lab/a3-root). Linux SSH can be enabled via the head unit's SoftAP A3 channel. The AGL system comes with built-in ADB, allowing applications to be installed directly.
+
+### Network Connectivity
+
+- Gateway Patch: [Click here](https://github.com/vw-id-headunit-lab/http-gateway-patch)
+- Whitelist Patch: [Click here](https://github.com/vw-id-headunit-lab/ivi-whitelist-manager)
+
+### Available Features
+
+- Smart Light (ID. Light) integration with Apple CarPlay: [Click here](https://github.com/vw-id-headunit-lab/smartlight-agl)
+- Automatic day/night mode switching: [Click here](https://github.com/vw-id-headunit-lab/icas3-agl-auto_day_night)
+- More features are under development. Stay tuned!
+
+### Development Virtual Machines
+
+- Android Virtual Machine: [Click here](https://github.com/vw-id-headunit-lab/android-firmware-qemu-bench)
+- HMI Virtual Machine: [Click here](https://github.com/vw-id-headunit-lab/icas3-hmi-bench)
+
+---
+
+***Please credit the original source when redistributing or creating derivative works.***
