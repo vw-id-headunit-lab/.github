@@ -24,6 +24,10 @@
 - 安卓虚拟机：[点击这里](https://github.com/vw-id-headunit-lab/android-firmware-qemu-bench)
 - HMI虚拟机：[点击这里](https://github.com/vw-id-headunit-lab/icas3-hmi-bench)
 
+### 群聊：ID折腾俱乐部
+
+<img src="./群聊：ID折腾俱乐部.png" alt="ID折腾俱乐部群聊二维码" width="300">
+
 ---
 
 ***转载与衍生作品，请注明来源***
